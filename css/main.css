@@ -1,12 +1,9 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #757575;
-  width: 1200px;
 }
 ul,
 li,
@@ -154,13 +151,9 @@ a {
 }
 .container {
   width: 1200px;
-  margin-top: 0px;
-  margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 93px;
   padding-right: 15px;
-  padding-bottom: 94px;
   padding-left: 15px;
 }
 .main-nav {
