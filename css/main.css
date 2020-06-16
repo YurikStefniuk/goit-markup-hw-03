@@ -92,6 +92,11 @@ a {
   line-height: 19px;
   letter-spacing: 0.03em;
   color: #212121;
+  text-align: center;
+}
+.team-proffession {
+  display: block;
+  text-align: center;
 }
 .specialization-name {
   font-weight: 700;
