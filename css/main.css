@@ -47,6 +47,8 @@ a {
   line-height: 42px;
   text-align: center;
   color: #212121;
+  margin-top: 94px;
+  margin-bottom: 50px;
 }
 .item-title {
   font-weight: 700;
@@ -73,6 +75,9 @@ a {
   line-height: 16px;
   letter-spacing: 0.02em;
   color: #757575;
+}
+.link-phone-mail:not(:last-child) {
+  margin-right: 50px;
 }
 .order-button {
   font-weight: 700;
@@ -204,6 +209,7 @@ a {
 }
 .app-links {
   display: flex;
+  justify-content: center;
 }
 .team-info:not(:last-child) {
   margin-right: 30px;
@@ -213,6 +219,7 @@ a {
 }
 .clients {
   display: flex;
+  margin-bottom: 94px;
 }
 .logo-clients {
   display: flex;
