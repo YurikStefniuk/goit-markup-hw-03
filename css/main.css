@@ -268,6 +268,7 @@ a {
 }
 .footer-addres {
   justify-content: flex-start;
+  width: calc((100% - 60px) / 4);
 }
 .footer-link {
   color: var(--text-color);
@@ -335,4 +336,9 @@ a {
 }
 .join-div {
   justify-content: center;
+  width: calc((100% - 60px) / 4);
+}
+.share-input {
+  width: calc((100% - 60px) / 2);
+  display: flex;
 }
