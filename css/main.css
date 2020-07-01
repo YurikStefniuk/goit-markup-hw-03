@@ -327,9 +327,11 @@ a {
 }
 .img-size {
   width: 370px;
+  height: 297px;
 }
 .img-team {
-  width: 270px;
+  width: 370px;
+  height: 294px;
 }
 .footer-div {
   display: flex;
